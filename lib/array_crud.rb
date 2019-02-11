@@ -8,6 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  array_numbered = [1, 2, 3, 4]
+  array_numbered >> [5]
   
 end
 
