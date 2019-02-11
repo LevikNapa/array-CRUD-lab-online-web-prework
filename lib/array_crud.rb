@@ -4,11 +4,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [1, 2, 12 ,14]
+  ["fee", "fi", "fo", "fum"]
 end
 
 def add_element_to_end_of_array(array, element)
- create_an_array.push 5
+ create_an_array.push "fur"
   
 end
 
