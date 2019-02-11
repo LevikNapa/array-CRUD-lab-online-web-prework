@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   arrays = create_an_array.pop
-  
+  puts create_an_array.inspect
   
 end
 
